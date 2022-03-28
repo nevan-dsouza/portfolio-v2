@@ -28,10 +28,10 @@ This project is under the "Unlicense" license.
 ## Screenshots
 
 ### Monitor:
-![Screenshot of the Portfolio on monitor](./screenshot1.png)
+![Screenshot of the Portfolio on monitor](./Screenshot1.png)
 
 ### Mobile (smallest width possible):
-![Screenshot of the Portfolio on Mobile](./screenshot2.png)
+![Screenshot of the Portfolio on Mobile](./Screenshot2.png)
 
 ## Questions
 
